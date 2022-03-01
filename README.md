@@ -6,5 +6,5 @@ MongoDB is used to keep track of any data chanegs, includes adding/ delelting it
 # Framework, Libraries and Database used:
 Express, EJS, Mongoose, MongoDB Atlas
 
-# Dployment:
+# Deloyment:
 The app is dployed on Heroku: https://frozen-garden-51855.herokuapp.com/
